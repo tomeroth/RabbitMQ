@@ -1,1 +1,13 @@
 C:\Users\Tomek\Downloads\TIO2016-master\TIO2016-master\Zajecia10\Models\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\Subscriber.exe.config
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\Subscriber.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\Subscriber.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\EasyNetQ.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\Models.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\Models.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\EasyNetQ.xml
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\obj\Debug\Subscriber.exe
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Subscriber\obj\Debug\Subscriber.pdb

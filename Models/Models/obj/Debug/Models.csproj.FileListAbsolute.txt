@@ -3,3 +3,8 @@ C:\Users\Tomek\Downloads\TIO2016-master\TIO2016-master\Zajecia10\Models\Models\b
 C:\Users\Tomek\Downloads\TIO2016-master\TIO2016-master\Zajecia10\Models\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 C:\Users\Tomek\Downloads\TIO2016-master\TIO2016-master\Zajecia10\Models\Models\obj\Debug\Models.dll
 C:\Users\Tomek\Downloads\TIO2016-master\TIO2016-master\Zajecia10\Models\Models\obj\Debug\Models.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Models\bin\Debug\Models.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Models\bin\Debug\Models.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Models\obj\Debug\Models.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia10\Models\Models\obj\Debug\Models.pdb
