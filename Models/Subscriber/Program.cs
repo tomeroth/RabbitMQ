@@ -24,7 +24,7 @@ namespace Subscriber
         static void HandleMessage(Message textMessage)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Got message: {0}", textMessage.Text);
+            Console.WriteLine("{0}: {1}",textMessage.Name, textMessage.Text);
             Console.ResetColor();
         }
     }
